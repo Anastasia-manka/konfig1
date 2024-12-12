@@ -104,3 +104,8 @@ save(self): Сохраняет логи в JSON-файл.
 Тест команды exit:
 
 Проверяет, что команда корректно завершает работу эмулятора.
+
+![image](https://github.com/user-attachments/assets/2aeb2cee-ed32-4c94-a3b6-a16a53f14538)
+
+![image](https://github.com/user-attachments/assets/c45d9418-590e-4a4d-a6a4-5faadc6abc02)
+
