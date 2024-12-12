@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2024-11-28T12:01:58.573384",
+        "user": "Karpova",
+        "command": "ls"
+    },
+    {
+        "timestamp": "2024-11-28T12:02:26.611047",
+        "user": "Karpova",
+        "command": "exit"
+    }
+]
